@@ -1,11 +1,10 @@
 #!/usr/bin/env python3
-#Publisher
 
 import rospy  # Libreria ROS
 import json  # Libreria per lavorare con JSON
 
 # Percorso del file JSON
-FASI = "/mnt/c/Users/utente/Desktop/ROS_UniversalRobotV3Python/UniversalRobotV3Python_4ceste/UniversalRobotV3Python/controllers/fruit_sorting_ctrl_opencv/fsa_message.json" #inserisci l'indirizzo di dove si trova il file json
+FASI = "/mnt/c/Users/utente/Desktop/ROS_UniversalRobotV3Python/UniversalRobotV3Python_4ceste/UniversalRobotV3Python/controllers/fruit_sorting_ctrl_opencv/fsa_message.json" # Aggiorna il percorso con la posizione del file JSON sul tuo sistema
 
 def write_to_file(data_str):
     """
