@@ -1,6 +1,6 @@
 # ROS Progetto Webots UR5e
 
-![UR5e in Webots]([https://via.placeholder.com/800x400.png?text=UR5e+in+Webots](https://github.com/KevinPetrone/ROS_ProgettoWebots_UR5e/blob/main/images/maxresdefault.jpg?raw=true))
+![UR5e in Webots](https://github.com/KevinPetrone/ROS_ProgettoWebots_UR5e/blob/main/images/maxresdefault.jpg?raw=true)
 
 Questo repository contiene il codice e la documentazione per un progetto che integra il robot UR5e con il simulatore Webots utilizzando ROS (Robot Operating System). Il progetto è stato sviluppato come parte di un corso o di un progetto personale per esplorare le capacità di simulazione e controllo di un braccio robotico industriale in un ambiente virtuale.
 
@@ -20,7 +20,7 @@ Il progetto mira a simulare il braccio robotico UR5e in un ambiente virtuale cre
 Per eseguire questo progetto, sono necessari i seguenti strumenti e librerie:
 
 - **Webots**: Il simulatore robotico. [Scarica Webots](https://cyberbotics.com/)
-- **ROS**: Robot Operating System. [Installa ROS]([http://wiki.ros.org/ROS/Installation](https://github.com/KevinPetrone/ROS_ProgettoWebots_UR5e/blob/main/Tutorial/Installazione_ROS_Noetic.pdf))
+- **ROS**: Robot Operating System. [Installa ROS](https://github.com/KevinPetrone/ROS_ProgettoWebots_UR5e/blob/main/Tutorial/Installazione_ROS_Noetic.pdf) 
 - **UR5e Model**: Il modello del robot UR5e per Webots.
 - **Pacchetti ROS**: Vari pacchetti ROS necessari per il controllo e la simulazione.
 
