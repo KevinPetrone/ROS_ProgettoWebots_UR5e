@@ -22,13 +22,9 @@ Per eseguire questo progetto, sono necessari i seguenti strumenti e librerie:
 - **Webots**: Il simulatore robotico. [Scarica Webots](https://cyberbotics.com/)
 - **ROS**: Robot Operating System. [Installa ROS](https://github.com/KevinPetrone/ROS_ProgettoWebots_UR5e/blob/main/Tutorial/Installazione_ROS_Noetic.pdf) 
 - **UR5e Model**: Il modello del robot UR5e per Webots.
-- **Pacchetti ROS**: Vari pacchetti ROS necessari per il controllo e la simulazione.
+- **Pacchetti ROS**: Vari pacchetti ROS necessari per il controllo e la simulazione, scaricare le guide ROS.
 
-## Installazione
-
-Segui questi passaggi per configurare il progetto sul tuo sistema:
-
-1. **Clona il repository**:
+**Clona il repository**:
    ```bash
    git clone https://github.com/KevinPetrone/ROS_ProgettoWebots_UR5e.git
    cd ROS_ProgettoWebots_UR5e
