@@ -20,7 +20,7 @@ Il progetto mira a simulare il braccio robotico UR5e in un ambiente virtuale cre
 Per eseguire questo progetto, sono necessari i seguenti strumenti e librerie:
 
 - **Webots**: Il simulatore robotico. [Scarica Webots](https://cyberbotics.com/)
-- **ROS**: Robot Operating System. [Installa ROS](http://wiki.ros.org/ROS/Installation)
+- **ROS**: Robot Operating System. [Installa ROS]([http://wiki.ros.org/ROS/Installation](https://github.com/KevinPetrone/ROS_ProgettoWebots_UR5e/blob/main/Tutorial/Installazione_ROS_Noetic.pdf))
 - **UR5e Model**: Il modello del robot UR5e per Webots.
 - **Pacchetti ROS**: Vari pacchetti ROS necessari per il controllo e la simulazione.
 
